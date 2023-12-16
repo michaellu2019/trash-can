@@ -1,0 +1,5 @@
+C:\Users\Michael\Dropbox (MIT)\College\MEng Year\6.330 - Power Electronics Laboratory\6.330 - Final Project\Software\PSoC Creator\trash_can\trash_can.cydsn\trash_can.cyprj|25c8afb5-2617-4927-9762-300828807597
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|0c641ed2-3488-4d2d-bd6e-f8f721617325
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|551235dd-13eb-4a20-a6ee-491479b7cf55
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|89d43182-b252-48ae-a94d-fd22ca94f2cf
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|6ba9aa98-923a-4013-bc8a-f6bab3b0587c
